@@ -1,0 +1,8 @@
+data()
+summary(Orange)
+View(Orange)
+summary(LakeHuron)
+hist(LakeHuron)
+View(LakeHuron)
+df<- data.frame(LakeHuron)
+View(df)
